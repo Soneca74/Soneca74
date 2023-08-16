@@ -20,6 +20,6 @@
   <a href = "mailto:eduardo9490@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-soares-padrao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/34319735/198140323-35c41cf9-33a8-45ea-b66d-1e5b8af17b80.svg)
+
 
 </div>
